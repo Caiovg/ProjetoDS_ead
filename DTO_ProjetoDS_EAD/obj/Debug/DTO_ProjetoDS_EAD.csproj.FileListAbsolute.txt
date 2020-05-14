@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\ProjetoDS_EAD\DTO_ProjetoDS_EAD\bin\Debug\DTO_ProjetoDS_EAD.dll
+C:\Users\Dell\source\repos\ProjetoDS_EAD\DTO_ProjetoDS_EAD\bin\Debug\DTO_ProjetoDS_EAD.pdb
+C:\Users\Dell\source\repos\ProjetoDS_EAD\DTO_ProjetoDS_EAD\obj\Debug\DTO_ProjetoDS_EAD.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\ProjetoDS_EAD\DTO_ProjetoDS_EAD\obj\Debug\DTO_ProjetoDS_EAD.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ProjetoDS_EAD\DTO_ProjetoDS_EAD\obj\Debug\DTO_ProjetoDS_EAD.dll
+C:\Users\Dell\source\repos\ProjetoDS_EAD\DTO_ProjetoDS_EAD\obj\Debug\DTO_ProjetoDS_EAD.pdb

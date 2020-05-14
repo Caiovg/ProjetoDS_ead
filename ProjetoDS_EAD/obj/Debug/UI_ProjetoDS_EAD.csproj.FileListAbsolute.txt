@@ -1,0 +1,17 @@
+C:\Users\Dell\source\repos\ProjetoDS_EAD\ProjetoDS_EAD\bin\Debug\ProjetoDS_EAD.exe.config
+C:\Users\Dell\source\repos\ProjetoDS_EAD\ProjetoDS_EAD\bin\Debug\ProjetoDS_EAD.exe
+C:\Users\Dell\source\repos\ProjetoDS_EAD\ProjetoDS_EAD\bin\Debug\ProjetoDS_EAD.pdb
+C:\Users\Dell\source\repos\ProjetoDS_EAD\ProjetoDS_EAD\bin\Debug\BLL_ProjetoDS_EAD.dll
+C:\Users\Dell\source\repos\ProjetoDS_EAD\ProjetoDS_EAD\bin\Debug\DTO_ProjetoDS_EAD.dll
+C:\Users\Dell\source\repos\ProjetoDS_EAD\ProjetoDS_EAD\bin\Debug\BLL_ProjetoDS_EAD.pdb
+C:\Users\Dell\source\repos\ProjetoDS_EAD\ProjetoDS_EAD\bin\Debug\DTO_ProjetoDS_EAD.pdb
+C:\Users\Dell\source\repos\ProjetoDS_EAD\ProjetoDS_EAD\obj\Debug\UI_ProjetoDS_EAD.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\ProjetoDS_EAD\ProjetoDS_EAD\obj\Debug\UI_ProjetoDS_EAD.Form1.resources
+C:\Users\Dell\source\repos\ProjetoDS_EAD\ProjetoDS_EAD\obj\Debug\ProjetoDS_EAD.Form2.resources
+C:\Users\Dell\source\repos\ProjetoDS_EAD\ProjetoDS_EAD\obj\Debug\ProjetoDS_EAD.Properties.Resources.resources
+C:\Users\Dell\source\repos\ProjetoDS_EAD\ProjetoDS_EAD\obj\Debug\UI_ProjetoDS_EAD.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\ProjetoDS_EAD\ProjetoDS_EAD\obj\Debug\UI_ProjetoDS_EAD.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ProjetoDS_EAD\ProjetoDS_EAD\obj\Debug\UI_ProjetoDS_EAD.csproj.CopyComplete
+C:\Users\Dell\source\repos\ProjetoDS_EAD\ProjetoDS_EAD\obj\Debug\ProjetoDS_EAD.exe
+C:\Users\Dell\source\repos\ProjetoDS_EAD\ProjetoDS_EAD\obj\Debug\ProjetoDS_EAD.pdb
+C:\Users\Dell\source\repos\ProjetoDS_EAD\ProjetoDS_EAD\obj\Debug\ProjetoDS_EAD.Form3.resources
